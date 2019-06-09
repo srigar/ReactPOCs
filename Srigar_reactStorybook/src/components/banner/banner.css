@@ -1,0 +1,18 @@
+.banner {
+    padding: 15px;
+    padding-right: 35px;
+    position: relative;
+    font-size: 14px;
+    background: red;
+    color: #ffffff;
+    width: 60%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.banner .close-icon {
+    position: absolute;
+    float: right;
+    top: 15px;
+    right: 15px;
+}

@@ -1,0 +1,13 @@
+button {
+    padding: 10px;
+    border-radius: 0px;
+    border-color: #cccccc;
+    max-width: 150px;
+    display: inline-block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.btn {
+    box-shadow: 3px 3px 3px #cccccc;
+}

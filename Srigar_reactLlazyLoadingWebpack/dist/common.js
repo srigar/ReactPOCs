@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{36:function(n,e,a){"use strict";var s=a(0),t=a.n(s);e.a=function(n){return t.a.createElement("h1",null,n.message)}}}]);
+//# sourceMappingURL=common.js.map
